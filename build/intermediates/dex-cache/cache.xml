@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5796ee9d8ba291738e3ecc515c2a54ef1a14eb61">
+        <dex dex="/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f4723644196b039ae85599bdf0531fd449d49451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5c43029a2123e981624940646719cfa8f6aa664d">
+        <dex dex="/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d6bf2947ce1155d3cf03f3655da8769f1e240c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/brainbreaker/UnityProjects/Android Studio/vuforia-sdk-android-6-0-117/build/java/vuforia/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="68bf3aa0a0e9c14d708c2c6cdbd475aee6ca9dfe">
+        <dex dex="/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_cc17b0edba8be4b2df944dcc410769ee41a2c336/classes.dex" />
+    </item>
+
+</items>

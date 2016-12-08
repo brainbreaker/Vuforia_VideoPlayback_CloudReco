@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/res/merged/debug/drawable/vuforia_splash.png",
+        "source": "/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/src/main/res/drawable/vuforia_splash.png"
+    },
+    {
+        "merged": "/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/src/main/res/drawable/logo.png"
+    }
+]

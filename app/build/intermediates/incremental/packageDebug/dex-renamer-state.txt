@@ -1,0 +1,7 @@
+#Thu Dec 08 21:23:27 IST 2016
+base.0=/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f4723644196b039ae85599bdf0531fd449d49451
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d6bf2947ce1155d3cf03f3655da8769f1e240c26/classes.dex
+base.1=/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d6bf2947ce1155d3cf03f3655da8769f1e240c26
+file.0=/home/brainbreaker/UnityProjects/Android Studio/vuforia-samples-advanced-android-6-0-112/VideoPlayback-6-0-112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f4723644196b039ae85599bdf0531fd449d49451/classes.dex
